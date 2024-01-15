@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Open In Safari",
+    "description": "Open your current tab in Safari",
+    "version": "1.0",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "open_in_safari.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
